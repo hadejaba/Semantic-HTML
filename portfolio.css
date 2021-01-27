@@ -1,0 +1,45 @@
+body { background-color: blanchedalmond;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+    nav {
+        color: dimgray;
+        font-weight: bold;
+    }
+    
+    nav ul {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+    }
+    
+    nav li {
+        display: inline-block;
+        padding: 10px;
+        margin-top: 20px;
+    }
+    
+    nav a {
+        color: darkslategray;
+        text-decoration: none;
+        text-transform: uppercase;
+    }
+
+    main ul {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+    }
+
+    main li {
+        padding: 0px;
+        margin-top: 0px;
+    }
+
+    footer {
+        text-transform: uppercase;
+        font-size: smaller;
+        font-weight: 300;
+        text-align: right;
+    }

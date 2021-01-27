@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(255, 199, 176);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-transform: uppercase;
+}
+
+nav {
+    color: dimgray;
+    font-weight: bold;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+nav li {
+    display: inline-block;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+nav a {
+    color: darkslategray;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.circle {
+    border-radius: 50%;
+}
+
+footer {
+    text-transform: uppercase;
+    font-size: smaller;
+    font-weight: 300;
+    text-align: right;
+}
